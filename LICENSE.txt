@@ -1,0 +1,32 @@
+synport — freeware licence
+Copyright (c) 2026 Vitaliy Alexeyev
+
+1. synport (the installer, including syn-vendor) is free of charge. You may use it for any purpose,
+   private or commercial.
+2. You may redistribute only the unmodified release archive, as published, with this file.
+   Modifying, decompiling or selling synport is not permitted.
+3. The source code of synport is not included and is not part of this licence.
+4. synport is provided "as is", without any warranty. Installing another operating system can lead to
+   loss of data; you use synport at your own risk. The author is not liable for any damage.
+
+Third-party components keep their own licences: THIRD-PARTY-LICENSES.html (libraries in synport);
+the gpl-<version>.tar.gz archive of each release (Linux kernel, BusyBox, initramfs scripts, build files
+of the bundled packages). The system image consists of Arch Linux ARM packages under their own licences.
+
+------------------------------------------------------------------------------------------------------
+
+synport — лицензия бесплатной программы
+© 2026 Виталий Алексеев
+
+1. synport (установщик, включая syn-vendor) бесплатен. Пользоваться им можно для любых целей,
+   личных и коммерческих.
+2. Распространять можно только неизменённый архив релиза в том виде, в каком он опубликован, вместе
+   с этим файлом. Изменять, декомпилировать и продавать synport нельзя.
+3. Исходный код synport не прилагается и в эту лицензию не входит.
+4. synport предоставляется «как есть», без каких-либо гарантий. Установка другой операционной системы
+   может привести к потере данных; вы пользуетесь synport на свой риск. Автор не отвечает за возможный
+   ущерб.
+
+Сторонние компоненты — под своими лицензиями: THIRD-PARTY-LICENSES.html (библиотеки в synport);
+архив gpl-<версия>.tar.gz каждого релиза (ядро Linux, BusyBox, скрипты initramfs, файлы сборки
+пакетов из релиза). Образ системы состоит из пакетов Arch Linux ARM под их собственными лицензиями.
