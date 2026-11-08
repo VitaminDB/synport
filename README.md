@@ -114,7 +114,7 @@ Each release:
 synport is one installer for every device of the project; new devices come as separate releases. Ports are made
 device by device and take from a week to months, so they are funded by the people who want them:
 
-1. **Requests and votes first.** Ask for your model in [Discussions](../../discussions) (model, codename,
+1. **Requests and votes first.** Ask for your model in the [device requests thread](https://github.com/VitaminDB/synport/discussions/1) (model, codename,
    `adb shell getprop` without serial numbers and accounts) and vote for the existing requests. During about a month
    after this release we collect requests.
 2. **Then a fundraiser** for the 2–3 most requested models: the goal is from $5,000 (phone + work). If the goal is
@@ -240,7 +240,7 @@ fastboot назначит телефону встроенный в Windows др�
 synport — один установщик для всех устройств проекта; новые устройства выходят отдельными релизами. Порт делается под
 каждое устройство отдельно и занимает от недели до месяцев, поэтому его оплачивают те, кому он нужен:
 
-1. **Сначала заявки и голоса.** Попросите свою модель в [Discussions](../../discussions) (модель, кодовое имя,
+1. **Сначала заявки и голоса.** Попросите свою модель в [теме заявок на устройства](https://github.com/VitaminDB/synport/discussions/1) (модель, кодовое имя,
    `adb shell getprop` без серийных номеров и учётных записей) и голосуйте за существующие заявки. Примерно месяц
    после этого релиза собираем заявки.
 2. **Потом сбор** на 2–3 самые востребованные модели: цель — от $5 000 (телефон + работа). Не набралось — деньги
